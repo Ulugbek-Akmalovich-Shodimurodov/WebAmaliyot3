@@ -1,0 +1,24 @@
+body{
+    background-image: url(https://static-cse.canva.com/blob/572026/removingbackgroundimages_Unsplash.jpeg);
+}
+.active:hover{
+    color: #4d67f6 !important;
+    /* flex-direction: column; */
+}
+.box{
+    padding: 100px;
+    align-items: center;
+    gap: 20px;
+}
+h1{
+    color: #040e49;
+    font-size: 60px !important;
+    font-weight: 900 !important;
+}
+p{
+    font-size: 22px !important;
+}
+.btn1{
+    display: inline-block;
+    padding: 5px 20px !important;
+}
